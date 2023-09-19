@@ -1,6 +1,6 @@
 //___FILEHEADER___
 
-import MTSDK
+import MiTu
 
 class ___FILEBASENAMEASIDENTIFIER___ {
     

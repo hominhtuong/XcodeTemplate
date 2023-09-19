@@ -1,6 +1,6 @@
 //___FILEHEADER___
 
-import MTSDK
+import MiTu
 
 //MARK: Init and Variables
 class ___FILEBASENAMEASIDENTIFIER___: UIViewController {
