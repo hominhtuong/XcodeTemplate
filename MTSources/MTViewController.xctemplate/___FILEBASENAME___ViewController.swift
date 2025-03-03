@@ -1,9 +1,13 @@
 //___FILEHEADER___
 
-import MiTu
+import MiTuKit
 
 //MARK: Init and Variables
 class ___FILEBASENAMEASIDENTIFIER___: UIViewController {
+    required init?(coder: NSCoder) { fatalError("init(coder:) has not been implemented")}
+    init() {
+        super.init(nibName: nil, bundle: nil)
+    }
 
     //Variables
 }
@@ -26,7 +30,7 @@ extension ___FILEBASENAMEASIDENTIFIER___ {
 //MARK: Functions
 extension ___FILEBASENAMEASIDENTIFIER___ {
     private func setupView() {
-        
+        view.backgroundColor = .white
     }
 
 }

@@ -1,8 +1,8 @@
 //___FILEHEADER___
 
-import MiTu
+import MiTuKit
 
-class ___FILEBASENAMEASIDENTIFIER___: UITableViewCell {
+class ___FILEBASENAMEASIDENTIFIER___: UICollectionViewCell {
     
     
     //Variables

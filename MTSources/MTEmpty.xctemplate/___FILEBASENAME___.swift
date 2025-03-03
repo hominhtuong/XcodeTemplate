@@ -1,3 +1,3 @@
 //___FILEHEADER___
 
-import MiTu
+import MiTuKit

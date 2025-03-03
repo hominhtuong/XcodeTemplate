@@ -1,6 +1,6 @@
 //___FILEHEADER___
 
-import MiTu
+import MiTuKit
 
 class ___FILEBASENAMEASIDENTIFIER___: UIView {
     required init?(coder: NSCoder) { fatalError("init(coder:) has not been implemented")}
@@ -16,7 +16,7 @@ class ___FILEBASENAMEASIDENTIFIER___: UIView {
 //MARK: Functions
 extension ___FILEBASENAMEASIDENTIFIER___ {
     private func setupView() {
-        
+        backgroundColor = .white
     }
 
 }

@@ -1,6 +1,6 @@
 //___FILEHEADER___
 
-import MiTu
+import MiTuKit
 
 class ___FILEBASENAMEASIDENTIFIER___ {
     
